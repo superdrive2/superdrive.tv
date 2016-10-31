@@ -1,0 +1,220 @@
+#EXTM3U
+#EXTINF:-1,======= SUPERDRIVE TURK TV ======= 
+#EXTINF:-1,TRT1 HD
+http://pro-unibox.com:8000/live/meli/meli/5545.ts
+#EXTINF:-1,TRT WORLD
+http://pro-unibox.com:8000/live/meli/meli/5546.ts
+#EXTINF:-1,TRT SPOR HD
+http://pro-unibox.com:8000/live/meli/meli/5547.ts
+#EXTINF:-1,TRT OKUL
+http://pro-unibox.com:8000/live/meli/meli/5548.ts
+#EXTINF:-1,TRT MÜZIK
+http://pro-unibox.com:8000/live/meli/meli/5549.ts
+#EXTINF:-1,TRT HABER HD
+http://pro-unibox.com:8000/live/meli/meli/5550.ts
+#EXTINF:-1,TRT ÇOCUK
+http://pro-unibox.com:8000/live/meli/meli/5552.ts
+#EXTINF:-1,TRT BELGESEL
+http://pro-unibox.com:8000/live/meli/meli/5551.ts
+#EXTINF:-1,TRT AVAZ
+http://pro-unibox.com:8000/live/meli/meli/5553.ts
+#EXTINF:-1,SINEMA TV
+http://pro-unibox.com:8000/live/meli/meli/5683.ts
+#EXTINF:-1,SHOWMAX
+http://pro-unibox.com:8000/live/meli/meli/5569.ts
+#EXTINF:-1,SHOW TV HD
+http://pro-unibox.com:8000/live/meli/meli/5570.ts
+#EXTINF:-1,SALON 3HD
+http://pro-unibox.com:8000/live/meli/meli/5691.ts
+#EXTINF:-1,SALON 2HD
+http://pro-unibox.com:8000/live/meli/meli/5689.ts
+#EXTINF:-1,SALON 1HD
+http://pro-unibox.com:8000/live/meli/meli/5687.ts
+#EXTINF:-1,PLANET TURK
+http://pro-unibox.com:8000/live/meli/meli/5583.ts
+#EXTINF:-1,NATIONAL GEO WILD HD
+http://pro-unibox.com:8000/live/meli/meli/5591.ts
+#EXTINF:-1,NATIONAL GEO PEOPLE HD
+http://pro-unibox.com:8000/live/meli/meli/5592.ts
+#EXTINF:-1,NATIONAL GEO HD
+http://pro-unibox.com:8000/live/meli/meli/5593.ts
+#EXTINF:-1,KRAL POP
+http://pro-unibox.com:8000/live/meli/meli/5565.ts
+#EXTINF:-1,KANAL7 HD
+http://pro-unibox.com:8000/live/meli/meli/5567.ts
+#EXTINF:-1,KANAL D
+http://pro-unibox.com:8000/live/meli/meli/5568.ts
+#EXTINF:-1,FOX LIFE TV
+http://pro-unibox.com:8000/live/meli/meli/5604.ts
+#EXTINF:-1,FENERBAHCE TV
+http://pro-unibox.com:8000/live/meli/meli/5607.ts
+#EXTINF:-1,FASHION ONE TV
+http://pro-unibox.com:8000/live/meli/meli/5608.ts
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://pro-unibox.com:8000/live/meli/meli/5613.ts
+#EXTINF:-1,BLOOMBERG HT HD
+http://pro-unibox.com:8000/live/meli/meli/5621.ts
+#EXTINF:-1,ATV HD
+http://pro-unibox.com:8000/live/meli/meli/5554.ts
+#EXTINF:-1,LIG TV HD 3
+http://pro-unibox.com:8000/live/meli/meli/5499.ts
+#EXTINF:-1,LIG TV 2 HD
+http://pro-unibox.com:8000/live/meli/meli/5498.ts
+#EXTINF:-1,LIG TV 1 HD
+http://pro-unibox.com:8000/live/meli/meli/5497.ts
+#EXTINF:-1,HABER
+http://pro-unibox.com:8000/live/meli/meli/5641.ts
+#EXTINF:-1,STAR TV
+http://pro-unibox.com:8000/live/meli/meli/559.ts
+#EXTINF:-1,Planet Pembe
+http://pro-unibox.com:8000/live/meli/meli/1229.ts
+#EXTINF:0,Xazar-TV
+http://5.9.118.115:8000/live/ashraf/ashraf/2874.ts
+#EXTINF:0,TV-1
+http://5.9.118.115:8000/live/ashraf/ashraf/2875.ts
+#EXTINF:0,TRT-World
+http://5.9.118.115:8000/live/ashraf/ashraf/2876.ts
+#EXTINF:0,TRT-TÜRK
+http://5.9.118.115:8000/live/ashraf/ashraf/2878.ts
+#EXTINF:0,TRT-MUZIK
+http://5.9.118.115:8000/live/ashraf/ashraf/2877.ts
+#EXTINF:0,TRT-OKUL
+http://5.9.118.115:8000/live/ashraf/ashraf/2879.ts
+#EXTINF:0,TRT-HABER
+http://5.9.118.115:8000/live/ashraf/ashraf/2881.ts
+#EXTINF:0,TRT-diyanet
+http://5.9.118.115:8000/live/ashraf/ashraf/2882.ts
+#EXTINF:0,TRT-AVAZ
+http://5.9.118.115:8000/live/ashraf/ashraf/2883.ts
+#EXTINF:0,Tv-Türk
+http://5.9.118.115:8000/live/ashraf/ashraf/2884.ts
+#EXTINF:0,TRT
+http://5.9.118.115:8000/live/ashraf/ashraf/2885.ts
+#EXTINF:0,STAR-TV
+http://5.9.118.115:8000/live/ashraf/ashraf/2886.ts
+#EXTINF:0,SNTV-Sport-Turk
+http://5.9.118.115:8000/live/ashraf/ashraf/2887.ts
+#EXTINF:0,ViXX-Tv-Comedy
+http://5.9.118.115:8000/live/ashraf/ashraf/2888.ts
+#EXTINF:0,ViXX-Tv-Action
+http://5.9.118.115:8000/live/ashraf/ashraf/2889.ts
+#EXTINF:0,ViXX-Tv
+http://5.9.118.115:8000/live/ashraf/ashraf/2890.ts
+#EXTINF:0,Sinetivi-Karnaval
+http://5.9.118.115:8000/live/ashraf/ashraf/2891.ts
+#EXTINF:0,Sinetivi-HD-4
+http://5.9.118.115:8000/live/ashraf/ashraf/2892.ts
+#EXTINF:0,Sinetivi-Adrenalin
+http://5.9.118.115:8000/live/ashraf/ashraf/2893.ts
+#EXTINF:0,Sinetivi-2
+http://5.9.118.115:8000/live/ashraf/ashraf/2894.ts
+#EXTINF:0,Cinemax-Türk-HD
+http://5.9.118.115:8000/live/ashraf/ashraf/2895.ts
+#EXTINF:0,Sinema-Tv-Canli-1
+http://5.9.118.115:8000/live/ashraf/ashraf/2896.ts
+#EXTINF:0,Sinema-Tv-Aksiyon-Canl?
+http://5.9.118.115:8000/live/ashraf/ashraf/2897.ts
+#EXTINF:0,Sinema-Tv-Aile-Canl?
+http://5.9.118.115:8000/live/ashraf/ashraf/2898.ts
+#EXTINF:0,Sinema-Tv-1001-Canl?
+http://5.9.118.115:8000/live/ashraf/ashraf/2899.ts
+#EXTINF:0,Moviesmart-Action
+http://5.9.118.115:8000/live/ashraf/ashraf/2900.ts
+#EXTINF:0,Moviemax-Türk-HD
+http://5.9.118.115:8000/live/ashraf/ashraf/2901.ts
+#EXTINF:0,Moviemax-Startrek-HD
+http://5.9.118.115:8000/live/ashraf/ashraf/2902.ts
+#EXTINF:0,Moviemax-Stars-HD
+http://5.9.118.115:8000/live/ashraf/ashraf/2903.ts
+#EXTINF:0,Moviemax-Family-HD
+http://5.9.118.115:8000/live/ashraf/ashraf/2904.ts
+#EXTINF:0,Moviemax-Action-HD
+http://5.9.118.115:8000/live/ashraf/ashraf/2905.ts
+#EXTINF:0,MovieBox-Türk-HD
+http://5.9.118.115:8000/live/ashraf/ashraf/2906.ts
+#EXTINF:0,Kidz-Animez
+http://5.9.118.115:8000/live/ashraf/ashraf/2907.ts
+#EXTINF:0,Show-TV
+http://5.9.118.115:8000/live/ashraf/ashraf/2908.ts
+#EXTINF:0,Samanyolu
+http://5.9.118.115:8000/live/ashraf/ashraf/2909.ts
+#EXTINF:0,SALON_3-HD
+http://5.9.118.115:8000/live/ashraf/ashraf/2910.ts
+#EXTINF:0,SALON_2-HD
+http://5.9.118.115:8000/live/ashraf/ashraf/2911.ts
+#EXTINF:0,SALON_1-HD
+http://5.9.118.115:8000/live/ashraf/ashraf/2912.ts
+#EXTINF:0,Vip-Channel-2
+http://5.9.118.115:8000/live/ashraf/ashraf/2913.ts
+#EXTINF:0,Moviesmart_PREMIUM
+http://5.9.118.115:8000/live/ashraf/ashraf/2914.ts
+#EXTINF:0,Moviesmart_PLATIN
+http://5.9.118.115:8000/live/ashraf/ashraf/2915.ts
+#EXTINF:0,Moviesmart_GOLD
+http://5.9.118.115:8000/live/ashraf/ashraf/2916.ts
+#EXTINF:0,Moviesmart_FAMILY
+http://5.9.118.115:8000/live/ashraf/ashraf/2917.ts
+#EXTINF:0,ViXX-Tv-Horror
+http://5.9.118.115:8000/live/ashraf/ashraf/2873.ts
+#EXTINF:0,Vip-Channel-1
+http://5.9.118.115:8000/live/ashraf/ashraf/2918.ts
+#EXTINF:0,Dizimax-Vice-HD
+http://5.9.118.115:8000/live/ashraf/ashraf/2919.ts
+#EXTINF:0,Dizimax-SCI-FI-HD
+http://5.9.118.115:8000/live/ashraf/ashraf/2920.ts
+#EXTINF:0,LIGTV-2
+http://5.9.118.115:8000/live/ashraf/ashraf/2921.ts
+#EXTINF:0,LigTV-1
+http://5.9.118.115:8000/live/ashraf/ashraf/2922.ts
+#EXTINF:0,KANAL-D
+http://5.9.118.115:8000/live/ashraf/ashraf/2923.ts
+#EXTINF:0,Irmak-TV
+http://5.9.118.115:8000/live/ashraf/ashraf/2924.ts
+#EXTINF:0,Dizi-Tv
+http://5.9.118.115:8000/live/ashraf/ashraf/2925.ts
+#EXTINF:0,Digimax-Animasyon
+http://5.9.118.115:8000/live/ashraf/ashraf/2926.ts
+#EXTINF:0,Digimax-2-HD
+http://5.9.118.115:8000/live/ashraf/ashraf/2927.ts
+#EXTINF:0,Digimax
+http://5.9.118.115:8000/live/ashraf/ashraf/2928.ts
+#EXTINF:0,Yesilçam-HD
+http://5.9.118.115:8000/live/ashraf/ashraf/2929.ts
+#EXTINF:0,Moviesmart-Family
+http://5.9.118.115:8000/live/ashraf/ashraf/2930.ts
+#EXTINF:0,Fil-Tv-HD
+http://5.9.118.115:8000/live/ashraf/ashraf/2931.ts
+#EXTINF:0,Loca-1
+http://5.9.118.115:8000/live/ashraf/ashraf/2932.ts
+#EXTINF:0,Loca-2
+http://5.9.118.115:8000/live/ashraf/ashraf/2933.ts
+#EXTINF:0,Belgesel-HD
+http://5.9.118.115:8000/live/ashraf/ashraf/2934.ts
+#EXTINF:0,TR_World-Travel-Channel
+http://5.9.118.115:8000/live/ashraf/ashraf/2935.ts
+#EXTINF:0,TR_Beyaz-Tv
+http://5.9.118.115:8000/live/ashraf/ashraf/2936.ts
+#EXTINF:0,TR biggrin REAM-TURK
+http://5.9.118.115:8000/live/ashraf/ashraf/2937.ts
+#EXTINF:0,TR biggrin IYANET-TV
+http://5.9.118.115:8000/live/ashraf/ashraf/2938.ts
+#EXTINF:0,TR_Ülke-Tv-HD
+http://5.9.118.115:8000/live/ashraf/ashraf/2939.ts
+#EXTINF:0,TR_TRT-Çocuk
+http://5.9.118.115:8000/live/ashraf/ashraf/2940.ts
+#EXTINF:0,TR_Sky-Türk-360
+http://5.9.118.115:8000/live/ashraf/ashraf/2941.ts
+#EXTINF:0,BURSASPOR-TV
+http://5.9.118.115:8000/live/ashraf/ashraf/2942.ts
+#EXTINF:0,Power-Türk-HD
+http://5.9.118.115:8000/live/ashraf/ashraf/2943.ts
+#EXTINF:0,ATV
+http://5.9.118.115:8000/live/ashraf/ashraf/2944.ts
+#EXTINF:0,A-SPOR
+http://5.9.118.115:8000/live/ashraf/ashraf/2945.ts
+#EXTINF:0,24-TV
+http://5.9.118.115:8000/live/ashraf/ashraf/2946.ts
+#EXTINF:0,Moviesmart_ACTION
+http://5.9.118.115:8000/live/ashraf/ashraf/2947.ts
+#EXTINF:0,TR_Kabe-Tv
+http://5.9.118.115:8000/live/ashraf/ashraf/2948.ts
